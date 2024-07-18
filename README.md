@@ -6,4 +6,4 @@ We shuffle the bars in a random order that is in a unsorted order.
 We perform sorting algorithms on these bars to sort these bars in a ascending order by applying the different algorithms by clicking on the buttons of these sorting algorithms.
 
 # Credits/Appreciation 🤝
- @Dkumar-hub 
+ # @Dkumar-hub 
